@@ -6,8 +6,6 @@ I'm a Developer, Soccer Player, and a Graphic Designer
 
 
 
-Languages and Tools:
-Visual Studio CodeHTML5CSS3JavaScriptGitHub
 
 
 
