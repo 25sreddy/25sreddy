@@ -1,10 +1,9 @@
-###Hi there, I'm Sahil 👋
+Hi there, I'm Sahil 👋
 I'm a Developer, Soccer Player, and a Graphic Designer
 🔭 I am working on improving my Web Development Skills
 👯 I’m looking to begin Game development with Swift soon
 🥅 2021 Goals: Improve Web Dev skills
-Connect with me:
-Sreenidh | YouTubeSreenidh | TwitterSreenidh | Instagram
+
 
 
 Languages and Tools:
