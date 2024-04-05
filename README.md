@@ -2,7 +2,7 @@ Hi there, I'm Sahil 👋
 I'm a Developer, Soccer Player, and a Graphic Designer
 🔭 I am working on improving my Web Development Skills
 👯 I’m looking to begin Game development with Swift soon
-🥅 2021 Goals: Improve Web Dev skills
+🥅 2024 Goals: Improve Web Dev skills
 
 
 
