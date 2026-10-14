@@ -7,9 +7,10 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/sahilreddy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:reddysahil01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <img src="https://img.shields.io/badge/Open_To-Summer_2027_Internships-2EA44F?style=for-the-badge" alt="Open to Summer 2027 Internships" />
 </div>
 <div align="center">
-🎓 CMU Information Systems · Class of 2028 · 🟢 Open to Summer 2027 Internships
+🎓 CMU Information Systems · Class of 2028
 </div>
 
 👨‍💻 About Me
@@ -32,11 +33,16 @@ Coded 905 transcripts into 3,278 learner turn pairs. Built an ICAP-grounded rubr
 Machine learning research on ECG data.
 🏆 VEX Robotics
 Lead programmer on a VEX team that reached the World Championship division finals.
-📫 Get in Touch
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/sahilreddy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:reddysahil01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-💬 Ask me about RAG systems, tutoring analytics, or why your LLM is hallucinating.
+  <h2>📫 Let's Connect</h2>
+  <p><strong>Always open to chatting about internships, AI/ML, and research.</strong></p>
+  <p>
+    <a href="https://www.linkedin.com/in/sahilreddy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:reddysahil01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  </p>
+  <p><em>💬 Ask me about RAG systems, tutoring analytics, or why your LLM is hallucinating.</em></p>
+  <p>Thanks for stopping by! 👋</p>
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer wave" />
