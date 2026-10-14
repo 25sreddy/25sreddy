@@ -5,17 +5,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Intern;AI%2FML+Enthusiast;Building+RAG+Systems;CMU+Information+Systems" alt="Typing animation" />
 </div>
 <div align="center">
-[!LinkedIn](https://www.linkedin.com/in/sahilreddy)
-[!Gmail](mailto:reddysahil01@gmail.com)
-!CMU
-!Open to Summer 2027 Internships
+  <a href="https://www.linkedin.com/in/sahilreddy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:reddysahil01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <img src="https://img.shields.io/badge/CMU-Information_Systems-C41230?style=for-the-badge" alt="CMU" />
+  <img src="https://img.shields.io/badge/Open_To-Summer_2027_Internships-2EA44F?style=for-the-badge" alt="Open to Summer 2027 Internships" />
 </div>
 
 👨‍💻 About Me
-I'm a CMU undergrad who builds AI systems people actually use. I built an HR retrieval-augmented generation product at WorkBench, do research on voice tutoring at Yiya AirScience, and did ECG machine learning research at Oxford.
-🌱 Currently: SWE Intern @ Mosaic · Research @ Yiya AirScience · Chasing a Summer 2027 internship
-🎯 Interests: AI/ML systems, infrastructure, and products people rely on
-📍 Based in: Pittsburgh, PA
+I'm a CMU undergrad who builds AI systems people actually use: an HR RAG product at WorkBench, voice tutor research at Yiya AirScience, and ECG ML research at Oxford.
+🌱 Currently: SWE Intern @ Mosaic · Research @ Yiya · Chasing a Summer 2027 internship
 💼 Experience
 Role
 Org
@@ -40,30 +38,17 @@ Web: React · Node
 </div>
 🚀 Featured Projects
 🤖 HR RAG Product — WorkBench
-An AI system that answers HR questions by retrieving grounded answers from company documents. Built the retrieval pipeline end to end: document chunking, embeddings, retrieval, and generation.
-What I learned: grounding answers in retrieved source material is what separates a demo from a system people can trust.
-🗣️ AirVoice Methodology — Yiya AirScience
-Research on a voice tutor. Coded 905 transcripts into 3,278 learner turn pairs and built a rubric grounded in ICAP and self-regulated learning to measure how learners interact with the tutor.
-What I learned: rigorous measurement matters as much as the model. A clear rubric turns messy conversation data into findings you can act on.
+RAG system that answers HR questions from company documents. Pipeline: chunking, embeddings, retrieval, generation.
+🗣️ AirVoice — Yiya AirScience
+Coded 905 transcripts into 3,278 learner turn pairs. Built an ICAP-grounded rubric to measure tutor interactions.
 🫀 ECG Machine Learning — Oxford University
 Machine learning research on ECG data.
-What I learned: real-world signal data is noisy and unforgiving, and careful evaluation is what makes a result believable.
 🏆 VEX Robotics
-Lead programmer on a high school VEX robotics team that reached the World Championship division finals.
-What I learned: building under competition pressure, where the code has to work on the field, not just in theory.
-📊 GitHub Stats
-<div align="center">
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=25sreddy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25sreddy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /></td>
-  </tr>
-</table>
-</div>
+Lead programmer on a VEX team that reached the World Championship division finals.
 📫 Get in Touch
 <div align="center">
-[!LinkedIn](https://www.linkedin.com/in/sahilreddy)
-[!Gmail](mailto:reddysahil01@gmail.com)
+  <a href="https://www.linkedin.com/in/sahilreddy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:reddysahil01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 💬 Ask me about RAG systems, tutoring analytics, or why your LLM is hallucinating.
 </div>
 <div align="center">
