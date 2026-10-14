@@ -7,34 +7,21 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/sahilreddy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:reddysahil01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <img src="https://img.shields.io/badge/CMU-Information_Systems-C41230?style=for-the-badge" alt="CMU" />
-  <img src="https://img.shields.io/badge/Open_To-Summer_2027_Internships-2EA44F?style=for-the-badge" alt="Open to Summer 2027 Internships" />
+</div>
+<div align="center">
+🎓 CMU Information Systems · Class of 2028 · 🟢 Open to Summer 2027 Internships
 </div>
 
 👨‍💻 About Me
 I'm a CMU undergrad who builds AI systems people actually use: an HR RAG product at WorkBench, voice tutor research at Yiya AirScience, and ECG ML research at Oxford.
 🌱 Currently: SWE Intern @ Mosaic · Research @ Yiya · Chasing a Summer 2027 internship
 💼 Experience
-Role
-Org
-When
-💻 Software Engineer Intern
-Mosaic
-Dec 2025 – Present
-🔬 Undergraduate Research Assistant
-Yiya AirScience
-Oct 2025 – Present
-🧠 Machine Learning Researcher
-Oxford University
-Jun 2025 – Sep 2025
+💻 Software Engineer Intern @ Mosaic · Dec 2025 – Present
+🔬 Undergraduate Research Assistant @ Yiya AirScience · Oct 2025 – Present
+🧠 Machine Learning Researcher @ Oxford University · Jun 2025 – Sep 2025
 🛠️ Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,react,nodejs,pytorch,pandas,numpy,git,github&theme=dark&perline=6" alt="Tech stack icons" />
-</div>
-<div align="center">
-Languages: Python · Java · JavaScript · TypeScript · C++ · SQL
-ML / AI: PyTorch · scikit-learn · pandas · NumPy
-Web: React · Node
 </div>
 🚀 Featured Projects
 🤖 HR RAG Product — WorkBench
